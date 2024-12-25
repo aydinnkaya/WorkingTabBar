@@ -48,7 +48,7 @@ class HomeScreenVC: UIViewController {
         
         itemAppearance.normal.iconColor = UIColor.white
         itemAppearance.normal.titleTextAttributes = [.foregroundColor : UIColor.white]
-        itemAppearance.normal.badgeBackgroundColor = UIColor.white
+        itemAppearance.normal.badgeBackgroundColor = UIColor.black
         
     }
 
