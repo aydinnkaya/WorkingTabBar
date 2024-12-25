@@ -18,6 +18,7 @@ class HomeScreenVC: UIViewController {
             let homeItem = tabBarItems[0]
             let settingsItem = tabBarItems[1]
             
+            
             homeItem.badgeValue = "3"
             settingsItem.badgeValue = "New"
             
