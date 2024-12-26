@@ -481,7 +481,7 @@
         <scene sceneID="V7Q-SB-ASg">
             <objects>
                 <navigationController automaticallyAdjustsScrollViewInsets="NO" id="Bgd-28-Ygw" sceneMemberID="viewController">
-                    <tabBarItem key="tabBarItem" title="Cars" image="car" largeContentSizeImage="gearshape.fill" catalog="system" id="wrr-OX-6Vq"/>
+                    <tabBarItem key="tabBarItem" title="Cars" image="car" catalog="system" largeContentSizeImage="gearshape.fill" id="wrr-OX-6Vq"/>
                     <toolbarItems/>
                     <simulatedTabBarMetrics key="simulatedBottomBarMetrics"/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="36j-Pc-sju">
@@ -500,6 +500,7 @@
     </scenes>
     <resources>
         <image name="car" width="12" height="15"/>
+        <image name="car" catalog="system" width="128" height="95"/>
         <image name="gearshape" catalog="system" width="128" height="123"/>
         <image name="gearshape.fill" catalog="system" width="128" height="123"/>
         <image name="house" catalog="system" width="128" height="104"/>
